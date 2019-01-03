@@ -132,7 +132,7 @@ void loop() {
     for(int k=0; k<=5;k++){
     Serial.print("ALARMA SILENCIOSA ACTIVA\n");
     Serial.print("¡¡INTRUSO DETECTADO!!\n");
-    Serial.print("Contactando con la policia y la guardia civil\n");
+    Serial.print("Contactando con las FFCCSE\n");
     delay(5000);
     }
     //Mientras hacemos este bucle el hipotetico ladron seguira intentando manipular la alarma, aprovechamos ese tiempo para contactar con la policia y acto seguido
