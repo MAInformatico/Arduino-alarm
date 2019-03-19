@@ -2,6 +2,8 @@
 
 Author: Miguel Angel Gutiérrez (MAInformatico)
 Trabajo realizado para la asignatura Arquitectura de Sistemas Basados en Microcontrolador.
-Work done for the subject Architecture Microcontroller Based Systems.
+  
+  
+Task done for the subject Architecture Microcontroller Based Systems.
 This code simulates the operation of an alarm. To disable it you must press the correct sequence of buttons. 3 failures connect the alarm.
 ![Foto aquí](https://github.com/MAInformatico/Arduino-alarm/blob/master/alarma.png)
